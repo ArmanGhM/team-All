@@ -1,0 +1,138 @@
+{
+  "brand": "استودیو چهار",
+  "nav": {
+    "home": "خانه",
+    "team": "تیم",
+    "projects": "پروژه‌ها",
+    "blog": "وبلاگ",
+    "search": "جستجو",
+    "openMenu": "باز کردن منوی ناوبری",
+    "closeMenu": "بستن منوی ناوبری"
+  },
+  "actions": {
+    "toggleLanguage": "EN",
+    "toggleLanguageAria": "تغییر زبان به انگلیسی",
+    "toggleThemeDark": "تغییر به حالت تیره",
+    "toggleThemeLight": "تغییر به حالت روشن",
+    "openCommandPalette": "باز کردن جستجوی سریع (Ctrl+K)",
+    "viewProjects": "مشاهده پروژه‌ها",
+    "meetTeam": "آشنایی با تیم",
+    "viewResume": "مشاهده رزومه",
+    "downloadPdf": "دانلود PDF",
+    "downloadingPdf": "در حال آماده‌سازی PDF...",
+    "clearFilters": "پاک کردن فیلترها",
+    "backToProjects": "بازگشت به پروژه‌ها",
+    "backToTeam": "بازگشت به تیم",
+    "backToBlog": "بازگشت به وبلاگ",
+    "readArticle": "مطالعه مقاله",
+    "livePreview": "پیش‌نمایش زنده",
+    "sourceCode": "کد منبع گیت‌هاب",
+    "returnHome": "بازگشت به خانه",
+    "shuffleTheme": "پالت جدید"
+  },
+  "hero": {
+    "kicker": "کلکتیو مهندسی و طراحی دوزبانه",
+    "title": "معماری برای محصولات دیجیتال آرام و تاب‌آور.",
+    "subtitle": "چهار متخصص که پلتفرم‌های وب دوزبانه، فروشگاه‌های بدون سر و رابط‌های بلادرنگ را در تهران، برلین و آمستردام می‌سازند.",
+    "floatingCardOneTitle": "گروه چهل",
+    "floatingCardOneMeta": "تجارت سرمقاله‌ای",
+    "floatingCardTwoTitle": "شبکه دوزبانه",
+    "floatingCardTwoMeta": "برابری RTL و LTR"
+  },
+  "metrics": {
+    "shipped": "پلتفرم‌های منتشرشده",
+    "shippedValue": "۲۸",
+    "specialists": "متخصصین هسته",
+    "specialistsValue": "۰۴",
+    "languages": "خطوط بومی",
+    "languagesValue": "FA / EN",
+    "uptime": "پایداری میانگین",
+    "uptimeValue": "۹۹.۹٪"
+  },
+  "home": {
+    "teamHeading": "اعضای کلکتیو",
+    "teamSubheading": "چهار مهندس و طراح در حوزه‌های معماری سیستم‌ها، تایپوگرافی و موشن.",
+    "projectsHeading": "آثار برگزیده",
+    "projectsSubheading": "سیستم‌های عملیاتی در حوزه‌های تجارت الکترونیک سرمقاله‌ای، تله‌متری صنعتی و مسیریابی شهری.",
+    "blogHeading": "یادداشت‌های استودیو",
+    "blogSubheading": "مقالات مهندسی درباره تایپوگرافی دوزبانه، همگام‌سازی وضعیت و انیمیشن زیر ۱۶ میلی‌ثانیه.",
+    "viewAllTeam": "همه اعضا",
+    "viewAllProjects": "همه پروژه‌ها",
+    "viewAllBlog": "همه مقالات"
+  },
+  "team": {
+    "pageTitle": "تیم و رزومه‌ها",
+    "pageSubtitle": "روی هر کارت حرکت کنید یا برای مشاهده رزومه کامل تعاملی و دریافت خروجی PDF عضو مورد نظر را انتخاب نمایید.",
+    "yearsExp": "سال تجربه",
+    "projectsCount": "پروژه"
+  },
+  "resume": {
+    "notFoundTitle": "عضو یافت نشد",
+    "notFoundDesc": "پروفایل تیمی درخواست‌شده در فهرست استودیو وجود ندارد.",
+    "summary": "خلاصه حرفه‌ای",
+    "skills": "مهارت‌های کلیدی",
+    "experience": "سوابق کاری",
+    "education": "تحصیلات",
+    "authoredProjects": "پروژه‌های مشارکت‌داشته",
+    "authoredPosts": "مقالات منتشرشده",
+    "contact": "ارتباط مستقیم"
+  },
+  "projects": {
+    "pageTitle": "آرشیو پروژه‌ها",
+    "pageSubtitle": "آثار کلکتیو را جستجو و فیلتر کنید. تمام فیلترها به صورت مستقیم با نشانی وب همگام می‌شوند.",
+    "searchLabel": "جستجوی پروژه‌ها",
+    "searchPlaceholder": "جستجو بر اساس عنوان، ابزار یا کارفرما...",
+    "memberLabel": "فیلتر بر اساس سازنده",
+    "allMembers": "همه سازندگان",
+    "tagLabel": "فیلتر بر اساس تخصص",
+    "allTags": "همه تخصص‌ها",
+    "resultsCount": "نمایش {{count}} از {{total}} پروژه",
+    "emptyTitle": "پروژه‌ای با این مشخصات یافت نشد",
+    "emptyDesc": "کلیدواژه جستجو را تغییر دهید یا فیلترهای فعال عضو و برچسب را پاک کنید."
+  },
+  "projectDetail": {
+    "notFoundTitle": "پروژه یافت نشد",
+    "notFoundDesc": "این پروژه در آرشیو استودیو چهار یافت نشد.",
+    "client": "کارفرما",
+    "year": "سال",
+    "disciplines": "حوزه‌ها",
+    "problem": "مسئله و چالش",
+    "solution": "راه‌حل مهندسی",
+    "tools": "ابزارها و فناوری‌ها",
+    "creators": "سازندگان پروژه"
+  },
+  "blog": {
+    "pageTitle": "مجله مهندسی و طراحی",
+    "pageSubtitle": "یادداشت‌های تحلیلی درباره سیستم‌های دوزبانه، معماری فروشگاه و رابط‌های لمسی وب.",
+    "minRead": "دقیقه مطالعه"
+  },
+  "blogPost": {
+    "notFoundTitle": "مقاله یافت نشد",
+    "notFoundDesc": "این یادداشت در مجله استودیو یافت نشد.",
+    "writtenBy": "نویسنده",
+    "relatedHeading": "مطالب مرتبط"
+  },
+  "commandPalette": {
+    "placeholder": "جستجو در صفحات، پروژه‌ها، اعضا یا مقالات...",
+    "empty": "نتیجه‌ای مطابق جستجوی شما یافت نشد.",
+    "groups": {
+      "pages": "صفحات",
+      "projects": "پروژه‌ها",
+      "team": "اعضای تیم",
+      "blog": "مقالات مجله"
+    },
+    "hintNavigate": "جابه‌جایی",
+    "hintOpen": "باز کردن",
+    "hintClose": "بستن"
+  },
+  "notFound": {
+    "code": "۴۰۴",
+    "title": "صفحه خارج از شبکه",
+    "subtitle": "مسیری که درخواست کرده‌اید جابه‌جا شده یا در این آرشیو دوزبانه وجود ندارد."
+  },
+  "footer": {
+    "tagline": "استودیو چهار — کلکتیو مستقل مهندسی و طراحی.",
+    "activeTheme": "پالت فعال",
+    "rights": "© ۲۰۲۶ استودیو چهار. ساخته‌شده در تهران و برلین."
+  }
+}

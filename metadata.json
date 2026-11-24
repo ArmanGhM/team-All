@@ -1,0 +1,6 @@
+{
+  "name": "Studio Chahar — Bilingual Team Portfolio",
+  "description": "A bilingual (Farsi/English) engineering and design collective portfolio featuring dynamic themes, URL-synced project discovery, printable resumes, and Ctrl+K command search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

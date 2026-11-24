@@ -1,0 +1,138 @@
+{
+  "brand": "Studio Chahar",
+  "nav": {
+    "home": "Home",
+    "team": "Team",
+    "projects": "Projects",
+    "blog": "Blog",
+    "search": "Search",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
+  },
+  "actions": {
+    "toggleLanguage": "FA",
+    "toggleLanguageAria": "Switch language to Farsi",
+    "toggleThemeDark": "Switch to Dark Mode",
+    "toggleThemeLight": "Switch to Light Mode",
+    "openCommandPalette": "Open Command Palette (Ctrl+K)",
+    "viewProjects": "Explore Projects",
+    "meetTeam": "Meet the Team",
+    "viewResume": "View Resume",
+    "downloadPdf": "Download PDF",
+    "downloadingPdf": "Preparing PDF...",
+    "clearFilters": "Clear Filters",
+    "backToProjects": "Back to Projects",
+    "backToTeam": "Back to Team",
+    "backToBlog": "Back to Blog",
+    "readArticle": "Read Article",
+    "livePreview": "Live Preview",
+    "sourceCode": "GitHub Source",
+    "returnHome": "Return Home",
+    "shuffleTheme": "New Palette"
+  },
+  "hero": {
+    "kicker": "Bilingual Design & Engineering Collective",
+    "title": "Architecture for quiet, resilient digital products.",
+    "subtitle": "Four specialists crafting bilingual web platforms, headless storefronts, and real-time interfaces across Tehran, Berlin, and Amsterdam.",
+    "floatingCardOneTitle": "Gang of Forty",
+    "floatingCardOneMeta": "Editorial Commerce",
+    "floatingCardTwoTitle": "Bilingual Grid",
+    "floatingCardTwoMeta": "RTL & LTR Parity"
+  },
+  "metrics": {
+    "shipped": "Shipped Platforms",
+    "shippedValue": "28",
+    "specialists": "Core Specialists",
+    "specialistsValue": "04",
+    "languages": "Native Scripts",
+    "languagesValue": "FA / EN",
+    "uptime": "Avg. Delivery SLA",
+    "uptimeValue": "99.9%"
+  },
+  "home": {
+    "teamHeading": "The Collective",
+    "teamSubheading": "Four engineers and designers collaborating across systems architecture, typography, and motion.",
+    "projectsHeading": "Selected Works",
+    "projectsSubheading": "Production systems spanning editorial e-commerce, industrial telemetry, and civic wayfinding.",
+    "blogHeading": "Studio Notes",
+    "blogSubheading": "Engineering essays on bilingual typography, state synchronization, and sub-16ms motion.",
+    "viewAllTeam": "All Members",
+    "viewAllProjects": "All Projects",
+    "viewAllBlog": "All Notes"
+  },
+  "team": {
+    "pageTitle": "Team & Resumes",
+    "pageSubtitle": "Hover to inspect or select any member to view their full interactive resume and exportable PDF dossier.",
+    "yearsExp": "yrs experience",
+    "projectsCount": "projects"
+  },
+  "resume": {
+    "notFoundTitle": "Member Not Found",
+    "notFoundDesc": "The requested team profile does not exist in our directory.",
+    "summary": "Profile Summary",
+    "skills": "Core Capabilities",
+    "experience": "Experience",
+    "education": "Education",
+    "authoredProjects": "Contributed Projects",
+    "authoredPosts": "Published Articles",
+    "contact": "Direct Contact"
+  },
+  "projects": {
+    "pageTitle": "Project Archive",
+    "pageSubtitle": "Search and filter our collective work. All filters synchronize directly with the URL query string.",
+    "searchLabel": "Search projects",
+    "searchPlaceholder": "Search by title, tool, or client...",
+    "memberLabel": "Filter by creator",
+    "allMembers": "All Creators",
+    "tagLabel": "Filter by discipline",
+    "allTags": "All Disciplines",
+    "resultsCount": "Showing {{count}} of {{total}} projects",
+    "emptyTitle": "No matching projects",
+    "emptyDesc": "Try adjusting your search keywords or clearing active member and tag filters."
+  },
+  "projectDetail": {
+    "notFoundTitle": "Project Not Found",
+    "notFoundDesc": "We could not locate this project in the Studio Chahar archive.",
+    "client": "Client",
+    "year": "Year",
+    "disciplines": "Disciplines",
+    "problem": "The Problem",
+    "solution": "Engineering Solution",
+    "tools": "Tools & Stack",
+    "creators": "Project Creators"
+  },
+  "blog": {
+    "pageTitle": "Engineering & Design Journal",
+    "pageSubtitle": "Long-form notes on bilingual systems, commerce architecture, and tactile web interfaces.",
+    "minRead": "min read"
+  },
+  "blogPost": {
+    "notFoundTitle": "Article Not Found",
+    "notFoundDesc": "This journal entry could not be found.",
+    "writtenBy": "Written by",
+    "relatedHeading": "Related Reading"
+  },
+  "commandPalette": {
+    "placeholder": "Search pages, projects, team, or articles...",
+    "empty": "No results match your query.",
+    "groups": {
+      "pages": "Pages",
+      "projects": "Projects",
+      "team": "Team Members",
+      "blog": "Journal Articles"
+    },
+    "hintNavigate": "Navigate",
+    "hintOpen": "Open",
+    "hintClose": "Close"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page outside the grid",
+    "subtitle": "The route you requested has moved or does not exist in this bilingual archive."
+  },
+  "footer": {
+    "tagline": "Studio Chahar — Independent Engineering & Design Collective.",
+    "activeTheme": "Palette",
+    "rights": "© 2026 Studio Chahar. Crafted in Tehran & Berlin."
+  }
+}
